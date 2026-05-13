@@ -10,6 +10,12 @@ Learning: Advanced Data Analysis with Pandas and Web Scraping.
 
 Ask me about: Python scripting, os and shutil automation, and .exe packaging.
 
+Technical Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 Featured Projects
 - **[Secure Banking Console](link-to-repo):** A logic-heavy application for managing transactions and security.
 - **[Automated File Organizer](link-to-repo):** A utility tool that cleans up messy directories in seconds.
